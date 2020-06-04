@@ -15,3 +15,5 @@ To take it a step further, the project shall use the Smart Document Understandin
 NODE-RED FLOW : https://node-red-xihhb.eu-gb.mybluemix.net/red/?#flow/e3c50f6f.0f43
 
 NODE-RED UI : https://node-red-xihhb.eu-gb.mybluemix.net/ui/#!/0?socketid=lfZsJOsBx1STuh2XAAAA
+
+Youtube Demo Video Link :  https://youtu.be/gen10QSSoSI
