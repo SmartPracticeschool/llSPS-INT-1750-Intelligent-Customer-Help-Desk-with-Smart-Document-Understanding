@@ -16,4 +16,4 @@ NODE-RED FLOW : https://node-red-xihhb.eu-gb.mybluemix.net/red/?#flow/e3c50f6f.0
 
 NODE-RED UI : https://node-red-xihhb.eu-gb.mybluemix.net/ui/#!/0?socketid=lfZsJOsBx1STuh2XAAAA
 
-Youtube Demo Video Link :  https://youtu.be/gen10QSSoSI
+Youtube Demo Video Link :  https://youtu.be/2anbl1_sa9Y
